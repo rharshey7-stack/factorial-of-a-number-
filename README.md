@@ -53,6 +53,7 @@ END
 
 ```
 OUTPUT
+<img width="1600" height="849" alt="image" src="https://github.com/user-attachments/assets/5317d378-bfba-4305-94af-bec1bdfc83d0" />
 
 (Keil output screenshot can be inserted here)
 
